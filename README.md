@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Atik Masud</h1>
 
 <h3 align="center">
-🚀 Web Designer | Front-End Developer | WordPress Developer
+Web Designer | Front-End Developer | WordPress Developer
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ Building modern, responsive and user-friendly websites with clean code and great
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 - 💻 Passionate Web Designer & Front-End Developer
 - 🌱 Currently learning **JavaScript, PHP, MySQL & Backend Development**

@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" alt="Web Designer Front End Developer WordPress Expert HTML, CSS, JavaScript" src="https://github.com/user-attachments/assets/f7db5d6f-82d8-46c3-aa19-ae21aa30fbfb" />
+</p>
+
 <h1 align="center">👋 Hi, I am Atik Masud</h1>
 <h3 align="center">Web Developer | Turning ideas into clean, functional, and modern websites. Passionate about frontend & backend technologies. Let's build something awesome!</h3>
 

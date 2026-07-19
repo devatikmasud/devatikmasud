@@ -60,7 +60,7 @@ Building modern, responsive and user-friendly websites with clean code and great
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devatikmasud&theme=radical&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=https://devatikmasud.github.io/AI-Agency-Technology/"/>
 
 </p>
 

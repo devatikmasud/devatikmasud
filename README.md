@@ -52,6 +52,7 @@ Building modern, responsive and user-friendly websites with clean code and great
 | 🛒 E-commerce Website | Coming Soon |
 | 🍔 Restaurant Website | Coming Soon |
 | 🏢 Business Landing Page | Coming Soon |
+| 🏢 Multipurpose-Saas--Landing-Page | https://devatikmasud.github.io/Multipurpose-Saas--Landing-Page/ |
 | 🤖 AI Agency & Technology | https://devatikmasud.github.io/AI-Agency-Technology/ |
 
 ---

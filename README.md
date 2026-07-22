@@ -17,7 +17,7 @@ Building modern, responsive and user-friendly websites with clean code and great
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
 </a>
 
-<a href="mailto:atik03072007@gmail.com">
+<a href="mailto:devatikmasud@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 

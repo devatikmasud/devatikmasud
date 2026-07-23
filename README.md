@@ -36,8 +36,7 @@ Building modern, responsive and user-friendly websites with clean code and great
 - 🎯 Love creating modern, responsive and SEO-friendly websites
 - 👨‍💻 Portfolio: #
 - 💬 Ask me about **HTML, CSS, JavaScript, WordPress, Elementor**
-- 📫 Email: **atik03072007@gmail.com**
-
+- 📫 Email: **devatikmasud@gmail.com**
 ---
 
 

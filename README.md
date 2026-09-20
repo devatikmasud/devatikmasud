@@ -9,7 +9,7 @@ Web Designer | Front-End Developer | WordPress Developer
 </h3>
 
 <p align="center">
-Building modern, responsive and user-friendly websites with clean code and great user experience.
+Building modern, responsive, and user-friendly websites with clean code and a great user experience.
 </p>
 
 <p align="center">
@@ -33,8 +33,8 @@ Building modern, responsive and user-friendly websites with clean code and great
 - 💻 Passionate Web Designer & Front-End Developer
 - 🌱 Currently learning **JavaScript, PHP, MySQL & Backend Development**
 - ⚡ Specialized in **WordPress & Elementor**
-- 🎯 Love creating modern, responsive and SEO-friendly websites
-- 👨‍💻 Portfolio: #
+- 🎯 Love creating modern, responsive, and SEO-friendly websites
+- 👨‍💻 Portfolio: https://devatikmasud.github.io/Atik-Masud-Portfolio/
 - 💬 Ask me about **HTML, CSS, JavaScript, WordPress, Elementor**
 - 📫 Email: **devatikmasud@gmail.com**
 ---
@@ -47,7 +47,7 @@ Building modern, responsive and user-friendly websites with clean code and great
 
 | Project | Live Demo |
 |---------|-----------|
-| 🌐 Portfolio Website | #|
+| 🌐 Portfolio Website |https://devatikmasud.github.io/Atik-Masud-Portfolio/|
 | 🛒 E-commerce Website | Coming Soon |
 | 🍔 Restaurant Website | Coming Soon |
 | 🏢 Business-and-Coworking-Website  | https://devatikmasud.github.io/Business-and-Coworking-Website/ |

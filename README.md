@@ -47,7 +47,7 @@ Building modern, responsive, and user-friendly websites with clean code and a gr
 
 | Project | Live Demo |
 |---------|-----------|
-| 🌐 Portfolio Website |https://devatikmasud.github.io/Atik-Masud-Portfolio/|
+| 🌐 Portfolio Website |https://devatikmasud.github.io/AtikMasud_Portfolio/|
 | 🛒 E-commerce Website | Coming Soon |
 | 🍔 Restaurant Website | Coming Soon |
 | 🏢 Business-and-Coworking-Website  | https://devatikmasud.github.io/Business-and-Coworking-Website/ |
